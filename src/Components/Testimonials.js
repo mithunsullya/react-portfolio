@@ -15,12 +15,12 @@ class Testimonials extends Component {
     }
 
     return (
-      <section id="testimonials">
+      <section id="motivation">
       <div className="text-container">
          <div className="row">
 
-            <div className="two columns header-col">
-               <h1><span>Client Testimonials</span></h1>
+            <div className="ten columns header-col">
+               <h1><span>Motivations</span></h1>
             </div>
 
             <div className="ten columns flex-container">

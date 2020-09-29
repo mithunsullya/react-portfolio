@@ -1,138 +1,133 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "name": "Mithun S",
+    "occupation": "FrontEnd developer at Specbee",
+    "image": "Mithun.jpg",
+    "bio": "I work as a Frontend Developer at Specbee where I wear a lot of hats. Mostly, I am involved in self learning and Proof Of Concept projects.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "mithunsullya.0111@gmail.com",
+    "phone": "+919481627975",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Sri-Nikethana House",
+      "city": "Mangalore",
+      "state": "Karnataka",
+      "zip": "574222"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://docs.google.com/document/d/1Q6h6XbIFofa3rkHrDtlusxet8Sa_FCccODVieUUsn1k/edit",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/mithunsullya",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": " https://www.linkedin.com/in/mithunsullya/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/mithun_sullya/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/mithunsullya",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
+        "school": "Canara Engineering College",
+        "degree": " Bachelor of Engineering in Computer Science",
+        "graduated": "June 2014",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
-      },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Specbee",
+        "title": "Frontend Developer",
+        "years": "July 2018 - Present",
+        "description": "Develop multiple projects as a frontend Engineer."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "HTML5",
+        "level": "90%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "80%"
+      },
+      {
+        "name": "Drupal site buildings",
+        "level": "90%"
+      },
+      {
+        "name": "Twig",
+        "level": "90%"
+      },
+      {
+        "name": "Javascript",
+        "level": "50%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "40%"
       },
       {
         "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
+        "level": "70%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "BarbequeNation",
+        "category": "Built using Drupal 8 (Drupal 8, Twig, SCSS, HTML5, JQuery, Gulp)",
+        "image": "barbequenation.png",
+        "url": "https://barbequenation.com"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Rutgers",
+        "category": "Built using Drupal 8 (Drupal 8, Twig, SCSS, HTML5, JQuery, Gulp)",
+        "image": "rutgers.png",
+        "url": "https://comminfo.rutgers.edu"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Briteline",
+        "category": "Built using Drupal 8 (Drupal 8, Twig, SCSS, HTML5, JQuery, Gulp)",
+        "image": "briteline.png",
+        "url": "https://briteline.net"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "European Union",
+        "category": "Built using Drupal 8 (Drupal 8, Twig, SCSS, HTML5, JQuery, Gulp)",
+        "image": "europa.png",
+        "url": "https://europa.eu/food-match-japan/en"
       },
       {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Covidtracker",
+        "category": "Built using Angular 8 (Typescript, SCSS, HTML5)",
+        "image": "covidtracker.png",
+        "url": "https://mithunsullya.github.io/covidtracker"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Stay Hungry! Stay Foolish!",
+        "user": "Steve Jobs"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Everything is difficult before it comes to be easy.",
+        "user": "Thomas Euller"
       }
     ]
   }
